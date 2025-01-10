@@ -1,4 +1,12 @@
-Hello!! My name is Suzanne. I am 17 years old and I'm following a course for Software Developer at MBO Rijnland (Gouda). <br>
-If you want more information about me, go to my <a href="https://suzanneb836.github.io/portfolio/"> portifolio</a>! <br>
-On the website above you can find out how to contact me if you're intrested. <br>
+Welcome to my page! My name is Suzanne and i'm currently a student. My intrests are inside of web-development, like learning to become a javascript developer one day! <br>
+You can visit my outdated <a href="https://suzanneb836.github.io/portfolio/"> portifolio</a> here, but a new one is on the way. <br> <br>
 
+Idea's for the list: <br>
+- New portfolio! <br>
+- A better README, like one of <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">these</a> <br>
+- Next.JS website <br>
+- Drag and drop quiz <br>
+
+<br>
+Currently working on: <br>
+- Finishing my internship (until 2 Feb) 🗂️
