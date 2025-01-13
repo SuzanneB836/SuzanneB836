@@ -1,4 +1,4 @@
-Welcome to my page! My name is Suzanne and i'm currently a student. My intrests are inside of web-development, like learning to become a javascript developer one day! <br>
+Welcome to my page! My name is Suzanne and i'm currently a student. My intrests are inside of web-development, like learning to become a web/javascript developer one day! <br>
 You can visit my outdated <a href="https://suzanneb836.github.io/portfolio/"> portifolio</a> here, but a new one is on the way. <br> <br>
 
 Idea's for the list: <br>
@@ -9,4 +9,5 @@ Idea's for the list: <br>
 
 <br>
 Currently working on: <br>
-- Finishing my internship (until 2 Feb) 🗂️
+- Finishing my internship (until 2 Feb) 🗂️ <br>
+- Upload my offline projects to an online url 
