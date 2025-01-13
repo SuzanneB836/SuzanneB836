@@ -1,13 +1,18 @@
-Welcome to my page! My name is Suzanne and i'm currently a student. My intrests are inside of web-development, like learning to become a web/javascript developer one day! <br>
-You can visit my outdated <a href="https://suzanneb836.github.io/portfolio/"> portifolio</a> here, but a new one is on the way. <br> <br>
+# Welcome to my page!
 
-Idea's for the list: <br>
-- New portfolio! <br>
-- A better README, like one of <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">these</a> <br>
-- Next.JS website <br>
-- Drag and drop quiz <br>
+My name is Suzanne, and I'm currently a student. My interests are in web development, like learning to become a web/JavaScript developer one day!  
+You can visit my outdated [portfolio](https://suzanneb836.github.io/portfolio/) here, but a new one is on the way.
 
-<br>
-Currently working on: <br>
-- Finishing my internship (until 2 Feb) 🗂️ <br>
-- Upload my offline projects to an online url 
+## Contact me
+- [Email](mailto:suzanneboon2007@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/suzanneboon/)
+
+## Idea's for the list:
+- New portfolio!
+- A better README, like one of [these](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- Next.JS website
+- Drag and drop quiz
+
+## Currently working on:
+- Finishing my internship (until 2 Feb) 🗂️
+- Upload my offline projects to an online URL
