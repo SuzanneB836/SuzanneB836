@@ -1,7 +1,7 @@
 # Welcome to my page!
 
 My name is Suzanne, and I'm currently a student. My interests are in web development, like learning to become a web/JavaScript developer one day!  
-You can visit my outdated [portfolio](https://suzanneb836.github.io/portfolio/) here, but a new one is on the way.
+You can visit my website [here](suzanneboon2007.nl)
 
 ## Contact me
 - [Email](mailto:suzanneboon2007@gmail.com)
