@@ -7,10 +7,4 @@ You can visit my website [here](suzanneboon2007.nl)
 - [Email](mailto:suzanneboon2007@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/suzanneboon/)
 
-## Idea's for the list:
-- A better README, like one of [these](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-- Next.JS website
-- Drag and drop quiz
-
-## Currently working on:
-- Upload my offline projects to an online URL
+[.](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
